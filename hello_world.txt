@@ -1,0 +1,2 @@
+Hi world
+this is me leaning git on odin project
